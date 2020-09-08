@@ -1,5 +1,7 @@
 body {
-    background-image: url(img/teresina.jpg);
+    background-image: url("../img/teresina-pi.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
 }
 
 div.form {
