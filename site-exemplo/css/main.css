@@ -1,0 +1,61 @@
+.akiimg {
+    height: 200px;
+    background: #aaa;
+    margin-top: 30px;
+}
+
+.imagens-fs {
+    height: 140px;
+    left: auto;
+    background: transparent;
+    margin-top: 30px;
+}
+
+.fakeimg {
+    width: 645px;
+    height: 200px;
+    background: #343333;
+}
+
+p {
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 18px;
+    color: rgb(0, 0, 0);
+    right: 300px;
+}
+
+.softwares {
+    background-color: blue;
+}
+
+.lu {
+    list-style: none;
+}
+
+.preco {
+    color: blanchedalmond;
+    background-color: rgb(139, 84, 226);
+}
+
+.preco-2 {
+    color: blanchedalmond;
+    background-color: rgb(139, 84, 226);
+    height: 56px;
+    left: 90px;
+}
+
+.logo {
+    color: #333333;
+    text-align: center;
+}
+
+
+}
+.imagens-sf {
+    left: 100px;
+}
+IMG {
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
